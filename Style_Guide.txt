@@ -1,0 +1,50 @@
+﻿last updated: 2015-08-02
+
+This is Ensata's grammar and style notes for the ToS-en translation.
+There is no official one, or else it's not really good enough for precise usage.
+
+------------------------------------------------------------------------ 
+
+* Line breaks in dialogue are made by adding the {nl} tag. 
+	Add a space before it for readability.
+	Don't add a space after, or it will indent the text.
+	Maximum line length should be ~100 characters, ie. one average-length sentence.
+
+	
+* US English should be used. British English nouns might be used on a limited level for names.
+
+
+* This game is based on Lithuanian Mythology, which is part of the Baltic myth family. 
+	Try to avoid mixing it with Latvian mythology unless there's a good reason.
+	Some names will be a direct myth reference. Check the Keywords file.
+
+	
+* NPC Names: 
+	For world-building and flavour, check for Lithuanian variants of a name and try to use that spelling.
+	Latvian names can be a second alternative.
+	Polish and Russian names are third.
+	
+	Do this only if the pronunciation is the same.
+	
+	
+* Writing & Editing
+	Avoid non-English alphabet and romanise foreign words. ie. Doppelsöldner -> Doppelsoeldner
+
+	A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
+	
+	Do not use Google Translate.
+
+	
+* Understanding Korean loanwords
+	The Korean text contains loanwords from other languages, including Lithuanian, 
+	and forces it into the Korean alphabet. 
+	Here is a list of merged consonants in the Korean language.
+
+	L and R can't be distinguished. Most people know this one as a stereotype.
+	P and F 
+	J and Z
+	K and G if it's in the middle of a word
+	V and B
+	W does not exist, and might appear as OA or OE or something.
+	
+	You can quickly get the romanisation by punching it into Google Translate.

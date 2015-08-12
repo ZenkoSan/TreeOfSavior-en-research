@@ -1,0 +1,110 @@
+Korean (ko/kor)	English (en) - pre-edit	Suggestions-New-ensata	notes
+~ ^ use the search! ^ ~	version before 2015-07-01	see also: mapnames.tsv	to be filled in as quest.tsv is reviewed
+~~~~~~~~	~~~~~~~~	~~~~~~~~	~~~~~~~~
+구원자	Savior		what Laima calls the PC
+계시자	Revelator		special people who communed with Laima
+			
+[Goddesses]	~~~~~~~~	~~~~~~~~	see Lithuanian myth
+라이마	Laima	~~	ref: goddess of fate - only fate, not wisdom
+운명과 예지의 여신	Goddess of Fate and Luck	Goddess of Fate and Wisdom	kor file says fate and wisdom
+가비야	Gabija	~~	of fire and hearth
+바카리네	Vakarine	~~	of the Evening Star
+제미나	Zemyna	~~	of earth, ie. Mother Earth
+아우슈리네	Ausrine	~~	of the Morning Star
+			
+[Events]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+신수의 날 	Day of Divine Tree / Divine Day	Day of blah	needs a more sensible name
+신수	Divine Tree	Celestial Tree	What NPCs call the strange tree
+			
+[Locations]	~~~~~~~~	~~~~~~~~	some are named after Lithuanian places
+~see mapnames.tsv	~~	~~	
+			
+[Bestiary]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+스파르나스	Sparnas		
+부베	Vubbe		
+츄파카브라	Chupacabra	~~	Monster from modern american legend
+판토	Panto		
+헬가세르클	Helgacercle		
+			
+[NPC Titles]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+직업의 마스터	x	Class Master	
+경계병	Sentinel	xxx	border guard
+마왕 제스티	The King of Demons Gesti	Demon Lord Gesti	length and creative reasons
+			
+[Misc NPC Names]	~~~~~~~~	~~~~~~~~	Many NPCs have Lithuanian (lt) names
+캔버그	Cane Bug	Cyneburg	probably an npc
+바이보라	Vivora		someone's leader
+레나	Lennar	Lena	
+헤느리카	F slow car	Henryka	original version signifies machine translation
+후베르타스 	Juvertas	Hubertas	lt name
+자카리엘	Zachariel	~~	name of an archangel
+즈벡	too many	Zubeck	
+코벤	Coben	Koben	danish for crowbar, Zubeck's brother
+			
+[Factions]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+마법협회	Magical Association	Mage Society	length and creative reasons
+클라페다 기사단	x	Klaipeda Knights	
+			
+[Key Items]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+홍염의 보석	Jewel of Prominence / numerous	Blazing Jewel	Gabija-related key item
+			
+[[ Game Mechanics ]]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+[Base Attributes]	~~~~~~~~	~~~~~~~~	some modern Attribute names
+힘	STR - Strength		Might
+체력	CON - Constitution		
+지능	INT - Intelligence	Intellect	Intellect - shorter in UI, same acronym
+정신	SPR - Spirit		Resolve
+민첩	DEX - Dexterity		
+			
+[RPG System]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+전직 	Advancement		hanja, lit. “Change Job”
+검사 계열	Swordsman Type	Warrior / Fighter	DnD style: Fighters
+마법사 계열	Wizard Type	Mage / Wizard	DnD: Wizards
+궁수 계열	Archer Type	Ranger	DnD: Rangers
+성직자 계열	Cleric Type	Cleric	DnD: Clerics
+			
+[Classes]	~~~~~~~~	~~~~~~~~	~~~~~~~~
+소드맨	Swordsman	~~	First Class
+하이랜더	Highlander	~~	a scottish person - actually a movie reference
+펠타스타	Peltasta	~~	variant of ancient greek word Peltast - greek infantry
+하플라이트	Hoplite	~~	a greek soldier
+센츄리온	Centurion	~~	a roman officer
+바바리안	Barbarian	~~	
+캐터프랙트	Cataphract	~~	greek - heavy cavalry
+커세어	Corsair	~~	fr: pirate
+도펠죌트너	Doppelsoeldner	~~	de: converting ö to oe is standard writing convention
+로델레로	Rodelero	~~	spanish trooper
+스콰이어	Squire	~~	
+위저드	Wizard	~~	First Class
+파이로맨서	Pyromancer	~~	
+크리오맨서	Cryomancer	~~	
+사이코키노	Psychokino	~~	
+알케미스트	Alchemist	~~	
+소서러	Sorcerer	xxx	Class is actually a monster summoner
+링커	Linker	~~	
+크로노맨서	Chronomancer	~~	
+네크로맨서	Necromancer	~~	
+쏘마터지	Thaumaturge	~~	
+엘레멘탈리스트	Elementalist	~~	
+아처	Archer	~~	First Class
+헌터	Hunter	~~	
+쿼렐슈터	Quarrelshooter	~~	middle english: quarrel means crossbow bolt
+레인저	Ranger	~~	
+새퍼	Sapper	~~	
+우구시	Wugushi	~~	chinese: 巫蠱師 - literally translates to Witchcraft Division
+하카펠	Hackapell	Hakkapel	finnish: Hakkapeliitat - finnish light cavalry
+스카우트	Scout	~~	
+로그	Rogue	~~	
+슈바르츠라이터	Schwarzer Reiter	~~	german: Black Rider, ie. horse rider
+플레처	Fletcher	~~	someone who works on arrows
+클레릭	Cleric	~~	First Class
+프리스트	Priest	~~	
+크리비	Krivis	~~	High Priest title for Romuva religion
+보코르	Bokor	~~	priest of Voodoo religion
+드루이드	Druid	~~	Celtic, it's complicated
+사두	Sadhu	~~	Hindu ascetic or holy person
+딥디르비	Dievdirbys	~~	lt: wood artisan of holy sculptures
+오라클	Oracle	~~	
+몽크	Monk	~~	
+파드너	Pardoner	~~	Middle English: church official who sells indulgences
+팔라딘	Paladin	~~	classic RPG class
