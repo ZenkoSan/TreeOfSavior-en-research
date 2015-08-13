@@ -29,8 +29,6 @@ Large and weirdly shaped images are behind a link to prevent layout problems.
 
 * Dialog Prompts (seen in the NPC Names screenshot) has a limit of **~60 chars, with one line.** Many, many lines are actually Player lines, which means quotation marks need to be added.
 
-<img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/dialogue%20pick.jpg" align="center" height="192" >
-
 * [Help Bubbles](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/help%20bubble.jpg) - **30 chars, 2 lines.** When the text was reloaded, it jumped upward on the screen for some reason.
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/help%20bubble.jpg" align="center" height="128" >
@@ -93,9 +91,7 @@ Large and weirdly shaped images are behind a link to prevent layout problems.
 
 * [Monster Names](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/monstername.jpg) - **~20-26 chars**
 
-<img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/monstername.jpg" align="center" height="192" >
-
-![Monster Names](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/monstername.jpg)
+<img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/monstername.jpg" align="center" height="96" >
 
 * [World Map Titles](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/world-map-titles.jpg) - **approx. 1 word, 5 lines.** Since the Level Requirement is also on the title, this means map names should never exceed three or four words, of reasonable length.
 
@@ -103,4 +99,4 @@ Large and weirdly shaped images are behind a link to prevent layout problems.
 
 * [World Map Pop-Ups](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/map-popup.jpg) - Didn't check for strict limits, but there are **problems with overlap and cutoff,** due to the layout and name length, depending on the map.
 
-![Map Pop-Ups](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/map-popup.jpg)
+<img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/map-popup.jpg" height="128" >
