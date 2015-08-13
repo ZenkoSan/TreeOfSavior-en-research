@@ -1,37 +1,67 @@
-﻿last updated: 2015-08-02
+﻿last updated: 2015-08-14
 
-This is Ensata's grammar and style notes for the ToS-en translation.
-There is no official one, or else it's not really good enough for precise usage.
+This is Ensata's writing guide made to assist in translating Tree of Savior to English.
+
+As of the time last updated, an official writing style guide does not exist, or is inadequate.
 
 ------------------------------------------------------------------------ 
 
-* Line breaks in dialogue are made by adding the {nl} tag. 
+* Code Tags
+	Anything inside semicolons ( { & } ) is read as a special code tag by the game.
+	The tag '%s' is used for inserting dynamic words.
+		Do not modify or delete these unless you know what you're doing.
+
+* Line Breaks
+	The {nl} tag will manually create a line break.
 	Add a space before it for readability.
-	Don't add a space after, or it will indent the text.
-	Maximum line length should be ~100 characters, ie. one average-length sentence.
+	Don't add a space after, unless you want to indent the text.
+	Some UI elements have automatic word wrap.
+		For this reason, {nl} should not be used to split sentences in half.
 
 	
-* US English should be used. British English nouns might be used on a limited level for names.
+* Language
+	US English should be used. 
+	British English nouns might be used on a limited level for names.
 
 
-* This game is based on Lithuanian Mythology, which is part of the Baltic myth family. 
-	Try to avoid mixing it with Latvian mythology unless there's a good reason.
-	Some names will be a direct myth reference. Check the Keywords file.
+* Lore
+	This game has elements inspired by Lithuanian Mythology.
+		Do not confuse this with the Baltic myth family, including Latvian myth.
+	Some names will be a direct myth reference. Check the translation glossaries and perform research.
 
 	
-* NPC Names: 
-	For world-building and flavour, check for Lithuanian variants of a name and try to use that spelling.
-	Latvian names can be a second alternative.
-	Polish and Russian names are third.
+* NPC Names
+	To retain flavor, check for Lithuanian variants of a name and try to use that spelling.
+	As alternatives, check for Latvian, Polish, and Russian names.
+		Do this only if the pronunciation is the same.
+	Do not 'Americanize' the names.
 	
-	Do this only if the pronunciation is the same.
 	
+* Font and Rendering
+	As of the time last updated, the game uses the font "Quattrocento Bold".
+	To check for available characters and to download a copy, go here:
+		https://www.google.com/fonts/specimen/Quattrocento
+		
 	
-* Writing & Editing
+* Punctuation
 	Avoid non-English alphabet and romanise foreign words. ie. Doppelsöldner -> Doppelsoeldner
 
-	A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
+	Ellipses should be done according to personal style, either as three-periods or the Unicode character.
+		A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
+		Don't randomly interfere with other people's ellipses unless you're actually working on that line.
+		Rendering or standardisation issues can be dealt with when it comes up.
 	
+	Quotation markers should be done with the proper Unicode open/close symbols -( “ ” )
+		Autocorrect can deal with this, if you are using spreadsheet software.
+		Using the neutral quotation markers ( " ) can cause rendering and import/export issues for some editors.
+	
+	
+* Translation
+	Do not use Google Translate, or any other machine translator, unless you know what you're doing.
+		If you want to ask why, you probably don't know what you're doing.
+		If you think it's okay to set it to "Korean -> English", you do not know what you're doing.
+		If you think it's okay to set it to "Korean -> Japanese -> English", you do not know what you're doing.
+		
 	Do not use Google Translate.
 
 	

@@ -12,5 +12,5 @@ The original portions written by myself (the GitHub user ['ensata'](https://gith
 ======
 
 File breakdown:
-* Fully original: `GitHub_Usage.txt` ; `Style_Guide.txt`
+* Fully original: `GitHub_Usage.txt` ; `Style_Guide.txt` ; 'Interface Limits & Typesetting.md' (excluding linked files)
 * Contains mix of fair use material and original creation: `Keyword_notes.tsv` ; `mapnames.tsv` ; all files inside `\interface research\`

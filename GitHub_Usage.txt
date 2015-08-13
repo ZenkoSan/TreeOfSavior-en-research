@@ -6,17 +6,18 @@ This is Ensata's basic guide to not ruining other people's contributions to GitH
 ------------------------------------------------------------------------ 
 	
 	Always write a summary. 
-		Write down the section you reviewed in the commit summary.
-		Explain the type of edit performed.
+		Mention the section you reviewed in the commit title for fast reference.
+		Explain the types of edits performed in the summary.
 		Definitely explain your edit if you're doing a mass search and replace.
 	
 	Edit lines in groups. 
 		Limit your range as much as possible to avoid potential merge conflicts.
-		For example, edit a chunk of 100 lines, from 1-100, or 101-200, etc.
+		For example, edit a specific area of 100 lines, from lines 1-100, or 2101-2200, etc.
 
 	Do not edit more than ~300 lines in a file in a single commit/pull request. 
-		GitHub will not display a diff inside the browser if it exceeds 100kb, which is typically ~300 lines.
+		GitHub will not display a diff inside the browser if it exceeds 100 KB.
+		The 100 KB limit can average at ~300 lines, but will be larger or smaller depending on the edits made.
 	
 	Github will not render tsv files as a searchable table if:
 		The file is larger than 512kb
-		Double quote symbols are not formatted correctly (This is difficult to avoid!)
+		Quotation marks are not formatted correctly (This is difficult to avoid! See the Style Guide!)
