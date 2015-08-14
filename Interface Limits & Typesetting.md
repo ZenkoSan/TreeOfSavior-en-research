@@ -5,16 +5,16 @@ Research on the typesetting and character limit issues found in the first Englis
 
 Includes screenshots.
 
-For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) the minimum comfortable reading width for English text is a line width of 40 characters, with an average of ~75 for books, and ~100 for computer screens. The minimum of 40 characters is strict, as word wrap will begin to clash with the length of English words, creating a heavily jagged right margin.
+For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) the minimum comfortable reading width for English text is a line width of 40 characters, with an average of ~75 for books, and ~100 for computer screens. 
+The minimum of 40 characters is strict, as word wrap will begin to clash with the length of English words, creating a heavily jagged right margin.
 
 ### Summary
 
 * All text appears to be left-aligned, non-justified.
 * If word wrap is present, it is sometimes inconsistent with the boundary of the text box, creating cut-offs.
 * Column width varies a lot, with about half dropping below 40 characters.
-* Column height has different coding for different elements. Some is fixed, some are dynamic, some are dynamic, but requires the insertion of the {nl} tag.
+* Column height has different coding for different elements. Some are fixed; some are dynamic; some are dynamic, but requires line breaking with the {nl} tag.
 * Some Unicode punctuation is supported, but this is actually dependent on the font file loaded.
-
 
 * The game uses the font **Quattrocento Bold**. To check for available characters and to download a copy, go here: https://www.google.com/fonts/specimen/Quattrocento
 
@@ -77,11 +77,11 @@ For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) t
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/dialogue.jpg" align="middle" height="192" >
 
-* [Unicode and Full Alphabet test](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test.jpg) - a pangram is a phrase that uses the language's entire alphabet. All the basics for English and German are in here, as well as basic Unicode punctuation. I used {nl}'s, and you can see that there is actually a sixth line, that cuts off after one character. The character is repeated in the next window. Almost all Unicode failed, but this is usually caused by the font file that's loaded. The full character limits can be checked at https://www.google.com/fonts/specimen/Quattrocento
+* [Unicode and Full Alphabet test](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test.jpg) - A pangram is a phrase that uses the language's entire alphabet. All the basics for English and German are in here, as well as basic Unicode punctuation. I used {nl}'s, and you can see that there is actually a sixth line, that cuts off after one character. The character is repeated in the next window. Almost all Unicode failed, but this is usually caused by the font file that's loaded. The full character limits can be checked at https://www.google.com/fonts/specimen/Quattrocento
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test.jpg" align="middle" height="192" >
 
-* [A shorter Unicode test](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test%20-short.jpg) The two failed characters in the second line are the reverse quotes, and I don't think anyone really uses those. Also, I have included a three-period-character ellipsis in the first line, while the second line has the Unicode ellipsis. You people debate far too much about them.
+* [A shorter Unicode test](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test%20-short.jpg) - The two failed characters in the second line are the reverse quotes, and I don't think anyone really uses those. Also, I have included a three-period-character ellipsis in the first line, while the second line has the Unicode ellipsis. You people debate far too much about them.
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/unicode%20test%20-short.jpg" align="middle" height="128" >
 

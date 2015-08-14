@@ -1,13 +1,17 @@
-﻿last updated: 2015-08-14
+﻿last updated: 2015-08-15
+
+	Writing Style Guide
 
 This is Ensata's writing guide made to assist in translating Tree of Savior to English.
 
 As of the time last updated, an official writing style guide does not exist, or is inadequate.
 
+For further info, see Interface Limits & Typesetting.md
+
 ------------------------------------------------------------------------ 
 
 * Code Tags
-	Anything inside semicolons ( { & } ) is read as a special code tag by the game.
+	Anything inside curly brackets { } is read as a special code tag by the game.
 	The tag '%s' is used for inserting dynamic words.
 		Do not modify or delete these unless you know what you're doing.
 
@@ -47,13 +51,14 @@ As of the time last updated, an official writing style guide does not exist, or 
 	Avoid non-English alphabet and romanise foreign words. ie. Doppelsöldner -> Doppelsoeldner
 
 	Ellipses should be done according to personal style, either as three-periods or the Unicode character.
-		A single-character Unicode ellipsis ( … ) is entered by typing Alt+0133
+		Autocorrect will automatically convert to the Unicode character, if you are using spreadsheet software.
+		A single-character Unicode ellipsis … is entered by typing Alt+0133
 		Don't randomly interfere with other people's ellipses unless you're actually working on that line.
 		Rendering or standardisation issues can be dealt with when it comes up.
 	
-	Quotation markers should be done with the proper Unicode open/close symbols -( “ ” )
+	Quotation markers should be done with the proper Unicode open/close symbols - “ ” ‘ ’
 		Autocorrect can deal with this, if you are using spreadsheet software.
-		Using the neutral quotation markers ( " ) can cause rendering and import/export issues for some editors.
+		Using the neutral quotation markers " ' can cause rendering and import/export issues in some software.
 	
 	
 * Glossary & Keywords

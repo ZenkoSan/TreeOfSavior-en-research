@@ -1,3 +1,4 @@
+last updated: 2015-08-15
 
 	GitHub Usage Guide
 	
@@ -21,3 +22,5 @@ This is Ensata's basic guide to not ruining other people's contributions to GitH
 	Github will not render tsv files as a searchable table if:
 		The file is larger than 512kb
 		Quotation marks are not formatted correctly (This is difficult to avoid! See the Style Guide!)
+		
+		
