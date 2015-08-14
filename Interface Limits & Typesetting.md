@@ -16,12 +16,14 @@ For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) t
 * Some Unicode punctuation is supported, but this is actually dependent on the font file loaded.
 
 
-* The game uses the font **"Quattrocento Bold"**. To check for available characters and to download a copy, go here: https://www.google.com/fonts/specimen/Quattrocento
+* The game uses the font **Quattrocento Bold**. To check for available characters and to download a copy, go here: https://www.google.com/fonts/specimen/Quattrocento
 
+### Specific Naming Limits
 
-* Item names should not exceed 20-35 characters.
-* Skill names should not exceed 35 characters.
-* Monster names should not exceed 20-26 characters.
+* **Items** should not exceed 20-35 characters.
+* **Skills** should not exceed 20-35 characters.
+* **Monsters** should not exceed 20-25 characters.
+* **Maps** should not exceed 4 words, assuming a maximum of 10-12 characters per word.
 
 ### Specific Images
 
@@ -71,7 +73,7 @@ For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) t
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/tooltip%20with%201%20nl.jpg" align="middle" height="96" >
 
-* [Dialogue Boxes](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/dialogue.jpg) - **90 characters and 5 lines,** but oddly enough, there's a **hardcoded line break at 120.** Very lone lines will continue into a new box. After comparing it to an older screenshot from imc, it looks like **the font size has been raised.**
+* [Dialogue Boxes](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/dialogue.jpg) - **90 characters and 5 lines,** but oddly enough, there's a **hardcoded line break at 120.** Very long lines will continue into a new box. After comparing it to an older screenshot from imc, it looks like **the font size has been raised.**
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/dialogue.jpg" align="middle" height="192" >
 
@@ -99,7 +101,7 @@ For reference: According to [this,](https://en.wikipedia.org/wiki/Line_length) t
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/monstername.jpg" align="middle" height="96" >
 
-* [World Map Titles](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/world-map-titles.jpg) - **approx. 1 word, 5 lines.** Since the Level Requirement is also on the title, this means map names should never exceed three or four words, of reasonable length.
+* [World Map Titles](https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/world-map-titles.jpg) - **approx. 1 long word per line, 5 lines.** Since the Level Requirement is also on the title, this means map names should never exceed three or four words, of reasonable length.
 
 <img src="https://raw.githubusercontent.com/ensata/TreeOfSavior-en-research/master/interface%20research/world-map-titles.jpg" align="middle" height="128" >
 
