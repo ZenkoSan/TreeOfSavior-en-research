@@ -56,6 +56,19 @@ As of the time last updated, an official writing style guide does not exist, or 
 		Using the neutral quotation markers ( " ) can cause rendering and import/export issues for some editors.
 	
 	
+* Glossary & Keywords
+	Keep the translation glossary beside you while you are editing. 
+		(ie. the wiki reference, or personal files such as Keyword_notes.tsv and mapnames.tsv)
+	
+	When an important-looking word is found, consult the glossary on its information and usage.
+		Keywords may include, but are not limited to: NPC Names, Events, Locations, Monsters, Items.
+		It may already be listed if there is a translation or synonym problem.
+		
+	Any keywords that are newly found or changed must be reported and explained for addition to the glossary.	
+	
+	Keyword entries should typically include a note or definition for context.
+	
+
 * Translation
 	Do not use Google Translate, or any other machine translator, unless you know what you're doing.
 		If you want to ask why, you probably don't know what you're doing.
@@ -78,3 +91,5 @@ As of the time last updated, an official writing style guide does not exist, or 
 	W does not exist, and might appear as OA or OE or something.
 	
 	You can quickly get the romanisation by punching it into Google Translate.
+	
+	
