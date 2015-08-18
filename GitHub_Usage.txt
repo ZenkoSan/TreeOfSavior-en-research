@@ -1,23 +1,30 @@
-last updated: 2015-08-15
+last updated: 2015-08-19
 
 	GitHub Usage Guide
 	
 This is Ensata's basic guide to not ruining other people's contributions to GitHub.
+
+Most of this is rudimentary stuff for any kind of collaborative writing program.
 	
 ------------------------------------------------------------------------ 
 	
-	Always write a summary. 
-		Mention the section you reviewed in the commit title for fast reference.
-		Explain the types of edits performed in the summary.
-		Definitely explain your edit if you're doing a mass search and replace.
+	Tell us what you're doing. Write an edit summary. 
+		Say what/where you edited in commit title for fast reference. Keep it short.
+		Explain the types of edits in the summary, and why. ie. punctuation; translation; mass replacement
 	
-	Edit lines in groups. 
-		Limit your range as much as possible to avoid potential merge conflicts.
-		For example, edit a specific area of 100 lines, from lines 1-100, or 2101-2200, etc.
-
-	Do not edit more than ~300 lines in a file in a single commit/pull request. 
-		GitHub will not display a diff inside the browser if it exceeds 100 KB.
-		The 100 KB limit can average at ~300 lines, but will be larger or smaller depending on the edits made.
+	Don't edit randomly. Aim for something specific. 
+		ie. submit things that modify a specific part of the file, ie. lines 1-100, or 2101-2200, etc.
+		ie. submit things that modify a specific part of the game, ie. Map Menu, one Sidequest, etc
+		
+	Keep your submissions small. Cluster your edits.
+		Limit your size and range as much as possible to avoid potential merge conflicts.
+		Separate the types of edits and make multiple submissions.
+	
+Specific to GitHub:
+	
+	Don't edit more than ~300 lines in a file in a single commit/pull request. 
+		Tracking changes becomes much more difficult if a submission exceeds 100 KB.
+		The 100 KB limit can average at ~300 edited lines, but will be larger or smaller depending on the edits.
 	
 	Github will not render tsv files as a searchable table if:
 		The file is larger than 512kb
